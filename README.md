@@ -1,1 +1,1 @@
-# BCGK
+# Pokedex
